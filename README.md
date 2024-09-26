@@ -4,3 +4,4 @@ The main motive to start this project is to clear the noise in stock market and 
 
 Basic idea is to display common news on the main page. Insights on daily news. Special update on stocks on that particular day.
 
+Goal: Create a web application that aggregates stock market news, provides simplified insights, and offers daily stock updates, all in an accessible format.
